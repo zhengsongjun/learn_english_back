@@ -3,7 +3,7 @@ package com.entity;
 import lombok.Data;
 
 @Data
-public class Catetory {
+public class Category {
     private String id;
-    private String columnName;
+    private String name;
 }
